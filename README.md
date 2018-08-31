@@ -1,6 +1,7 @@
 # python-cisco
 Cisco Network Automation - Software Defined Network - System Automation
 
+That's an Cisco ftp backup tool it allows users to backup all switches (one by one) to a ftp server automatically (vendor free)
 
 INSTALLATION (Windows/Linux)
 
